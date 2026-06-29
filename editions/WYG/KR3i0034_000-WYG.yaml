@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3i0034/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 范村菊譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:18:23.137748'
+  source:
+    repository: kanripo
+    path: KR3i0034/KR3i0034_000.txt
+hash: sha256:bedd816d74934d43529dc26eafd5af27e12b5f5c5051e1f31ec9c1ec730bd5b3

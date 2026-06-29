@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR3i0034/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3i0034/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 范村菊譜
+  date: '2015-08-24 23:18:23.137748'
+  source:
+    repository: kanripo
+    path: KR3i0034
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0034_000-WYG.yaml, hash: 'sha256:bedd816d74934d43529dc26eafd5af27e12b5f5c5051e1f31ec9c1ec730bd5b3'}
+  - {seq: 1, filename: KR3i0034_001-WYG.yaml, hash: 'sha256:e6c36e28de5e3ced80b4a7f80d13915b7f1bf7c08535ab0e6563a64da152674a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3i0034_001-WYG.markers.yaml, hash: 'sha256:c390925f496896d1f7c7fb16385d9c26013b6c3dd748b28766bfcc616fedf8da'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3i0034_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1879
+  label: 范村菊譜
+  type: section
+  level: 1
+hash: sha256:238146ac0c2dd1b33402b8b65928c6e438573dbc21cd548fb05097e3187e8c88
