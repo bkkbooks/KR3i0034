@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3i0034_000-WYG.yaml, hash: 'sha256:bedd816d74934d43529dc26eafd5af27e12b5f5c5051e1f31ec9c1ec730bd5b3'}
   - {seq: 1, filename: KR3i0034_001-WYG.yaml, hash: 'sha256:e6c36e28de5e3ced80b4a7f80d13915b7f1bf7c08535ab0e6563a64da152674a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0034_001-WYG.markers.yaml, hash: 'sha256:c390925f496896d1f7c7fb16385d9c26013b6c3dd748b28766bfcc616fedf8da'}
+  - {seq: 1, role: markers, filename: assets/KR3i0034_001-WYG.markers.yaml, hash: 'sha256:c02190ed9337229cc9d52120d1582189881686d03d6ae1805b09eda0ec736691'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,4 @@ table_of_contents:
   label: 范村菊譜
   type: section
   level: 1
-hash: sha256:238146ac0c2dd1b33402b8b65928c6e438573dbc21cd548fb05097e3187e8c88
+hash: sha256:fd56badf3ac0e0ff72e2b1300305fdce52509d8fa380b7db3d9bba285f081bfa

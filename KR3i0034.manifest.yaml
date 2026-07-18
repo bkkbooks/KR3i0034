@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR3i0034_000.yaml, hash: 'sha256:968d03d10cded9ff93681fc523aff2e1d4a230cb704bf06eb7c8a5e3066f2508'}
   - {seq: 1, filename: KR3i0034_001.yaml, hash: 'sha256:32712ed38259065995b3af79aaa22154b0c737839b03e4bfbdf45ea45ccd6ea0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0034_001.markers.yaml, hash: 'sha256:272855ea07a62b1f678668680b0b545aab38e944baf26a7d0720268dca909af0'}
+  - {seq: 1, role: markers, filename: assets/KR3i0034_001.markers.yaml, hash: 'sha256:2d08d2ce9b4e769999decf7d1535931e009b89b186050db4ea24139d95d83345'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,7 @@ table_of_contents:
   label: 范村菊譜
   type: section
   level: 1
-hash: sha256:4fce94eef7bc47d517c70b90edab13ac02ad38b01cf459c95ef9fea03c4f4dd1
+hash: sha256:914dc8ba822930f6285935ae74756aaaea8706ae02a3237fdbaebb19d1d3a6c7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
